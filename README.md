@@ -72,3 +72,11 @@ Demonstrate the ability to:
 ## 🔐 Note
 
 This scan was conducted in a safe lab environment for educational purposes only.
+
+---
+
+## 👤 Author
+
+**Romulo T. Velasco Jr.**  
+Cybersecurity Student @ WGU  
+[GitHub: Manny0882](https://github.com/Manny0882)
